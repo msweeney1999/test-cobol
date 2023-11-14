@@ -1,0 +1,12 @@
+{
+   "buildCmd": "",
+   "compileCmd": "vcc -d -od=output ${filename}",
+   "bpesubCommands": "",
+   "debugPort": "9999",
+   "debugListenerPort": "",
+   "copybookFolders": "",
+   "outputFolder": "output",
+   "sourceFolder": "",
+   "sourceEnvCmd": "source /home/unikix/setenv",
+   "enableSyntaxCheck": true
+}
